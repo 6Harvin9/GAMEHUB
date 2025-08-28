@@ -12,8 +12,8 @@ como parte de una asignación universitaria. El sitio está hecho con HTML, CSS 
 
 ## Enlaces
 
-- 📁 Repositorio en GitHub: [](https://github.com/6Harvin9/GAMEHUB.git)
-- 💻 Sitio en Vercel: [](https://gamehub-kohl-one.vercel.app/)
+- 📁 Repositorio en GitHub: [https://github.com/6Harvin9/GAMEHUB.git](https://github.com/6Harvin9/GAMEHUB.git)
+- 💻 Sitio en Vercel: [https://gamehub-kohl-one.vercel.app/](https://gamehub-kohl-one.vercel.app/)
 
 ## Integrantes
 Harvin Samir Berroa Celesten - Matrícula: 23-SISN-2-050
